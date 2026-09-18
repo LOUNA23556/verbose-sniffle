@@ -4,7 +4,7 @@ server=httpserver(("127.0.0,1",8080),simplehttprequesthandler)
 print("serveur lance sur ttp://127.0.0.1:8080)
 server.serv_forever()
 for port in range(800,8101):( salut c'est mia)
-S  =stocket . socket()
+with stocket . socket()
 s.settimeou (0.1)
 ( youtube )
 if s. connect_ex(("127.0.0.1",port))==0:
