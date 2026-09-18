@@ -1,0 +1,7 @@
+python
+from http.server import httpser,simplehttrequesthandler
+server=httpserver(("127.0.0,1",8080),simplehttprequesthandler)
+print("serveur lance sur ttp://127.0.0.1:8080)
+server.serv_forever()
+
+
