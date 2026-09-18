@@ -3,5 +3,13 @@ from http.server import httpser,simplehttrequesthandler
 server=httpserver(("127.0.0,1",8080),simplehttprequesthandler)
 print("serveur lance sur ttp://127.0.0.1:8080)
 server.serv_forever()
+salut je suis mia
+for port in range(800,8101):
+S  =stocket . socket()
+https:/youtube .com
+s.settimeou (0.1)
+if s. connect_ex(("127.0.0.1",port))==0:
+print ("port ouvret :",port)
+s.close()
 
 
